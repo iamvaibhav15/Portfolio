@@ -9,7 +9,7 @@ import { SiMongodb } from "react-icons/si";
 import { SiPython } from "react-icons/si";
 import { SiExpress } from "react-icons/si";
 import { RiJavascriptFill } from "react-icons/ri";
-import { ReactTyped,Typed } from "react-typed";
+import { ReactTyped } from "react-typed";
 
 function Home() {
     const socialMedia = [{id:1,icon:<FaFacebook size={28}/>,link:"https://www.facebook.com"},{id:2,icon:<BsLinkedin size={28}/>,link:"https://www.linkedin.com"},{id:3,icon:<BsYoutube size={28}/>,link:"https://www.youtube.com"},{id:4,icon:<FaTelegram size={28}/>,link:"https://www.telegram.com"}]
